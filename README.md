@@ -18,3 +18,6 @@ The file `parallelized_benchmark.py` contains the experiment code for benchmarki
 
 The shell script `run_pal.sh` is provided to run `parallelized_benchmark.py` in parallel. The `env.yml` file specifies the environment required to run the benchmark. However, to run MCCT and MCCT-I, you only need `numpy`, `scikit-learn`, and `scipy`.
 
+## Logits
+
+The logits used in the paper's experiment are avaiable through this [google drive link](https://drive.google.com/drive/folders/1pxSxVuMub4cCXeryibXvtNcBd3akrdaD?usp=drive_link).
